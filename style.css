@@ -7,10 +7,10 @@ h3{
 a{
    ;
     margin: 20px;
-    border:10px solid;
-    border-radius:20px;
+    border:20px solid;
+    border-radius:40px;
 }
 div{
    text-align: center;
-   font-family: 'Courier New', Courier, monospace;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
