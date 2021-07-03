@@ -4,3 +4,13 @@ h1{
 h3{
     color: brown;
 }
+a{
+   ;
+    margin: 20px;
+    border:10px solid;
+    border-radius:20px;
+}
+div{
+   text-align: center;
+   font-family: 'Courier New', Courier, monospace;
+}
